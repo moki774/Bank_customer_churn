@@ -37,9 +37,9 @@ The dataset includes information on customer demographics, account details, and 
 ---
 
 ## 💻 Tech Stack  
-- **Programming Language**: Python  
+- **Programming Language**: Python , SQL
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost  
-- **Tools**: Jupyter Notebook / Google Colab, GitHub  
+- **Tools**: Jupyter Notebook / Google Colab, GitHub, Tablau, Power BI 
 
 ---
 
