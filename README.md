@@ -18,7 +18,7 @@ By understanding these drivers, banks can take proactive measures to improve cus
 
 ## 📂 Dataset  
 We used the **Bank Customer Churn Modeling dataset** from Maven Analytics:  
-📌 [Download Dataset]([https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling](https://mavenanalytics.io/data-playground/bank-customer-churn)  
+📌 [Download Dataset]([https://mavenanalytics.io/data-playground/bank-customer-churn](https://mavenanalytics.io/data-playground/bank-customer-churn)  
 
 The dataset includes information on customer demographics, account details, and churn status. Key features:  
 - **Customer demographics**: Age, Gender, Geography  
