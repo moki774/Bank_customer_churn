@@ -51,10 +51,12 @@ The dataset includes information on customer demographics, account details, and 
 ---
 
 ## 👥 Team Members  
-- Mohammed M. Abo-Raia – 
-- [Team Member 2] – 
-- [Team Member 3] – 
-- [Team Member 4] – 
+- Mohammed M. Abo-Raia
+- Mostafa Hany
+- Mostafa Ramadan 
+- Ahmed Ashraf 
+- Belal Adel
+- Mohamed Hegazy 
 
 ---
 
